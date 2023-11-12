@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="228b54da-5000-4993-80c1-9eb648206e3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileexist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_02/C01_WebDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_02/c02_junitanitations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/C05_AssertionMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/C06_AssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/C11_LocatorPractise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/C12_LocatorPractise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/C13_AbsoluteRelative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/C43_JavascriptExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/C45_Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/C46_FilesInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/C50_ApachePoiReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/C51_ApachePoiGetData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/GoogleSearchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c03_beforeclass_afterclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c04_jnitannotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c07_locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c08_xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c09_webelementcommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c10_locatorpractise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c15_cssselector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c16_relativelocter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c17_chromeoptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c18_checkboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c19_radiobuttom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c20_javafaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c21_dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c22_dropdown2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c25_seleniyumwait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c26_alert1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c27_alert2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c28_basicautication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c32_testbase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c33_windowhandle01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c34_windowhandle02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c35_windowhandle03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c36_actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c37_mouseactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c38_dragandbyhorizontal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c39_dragandbyvertical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c40_hoverover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c41_keyboardactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c42_scrollactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c44_robotclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c47_fileexist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c48_filedownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c49_fileupload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03/c52_writeexxel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/JavascriptUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/testbase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/excelData .xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/excelfile.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Wd0IKKwpXdsFNiCxZ4sfZFrRN6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Q-3442 HASAN/IdeaProjects/untitled/src/test/resources",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Q-3442 HASAN\IdeaProjects\untitled\src\test\resources" />
+      <recent name="C:\Users\Q-3442 HASAN\IdeaProjects\untitled\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day_03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.c52_writeexxel.writeexxel">
+    <configuration name="C50_ApachePoiReadExcel.readExel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenyumdersleri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day_03" />
+      <option name="MAIN_CLASS_NAME" value="day_03.C50_ApachePoiReadExcel" />
+      <option name="METHOD_NAME" value="readExel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c48_filedownload.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenyumdersleri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day_03" />
+      <option name="MAIN_CLASS_NAME" value="day_03.c48_filedownload" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c48_filedownload.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenyumdersleri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day_03" />
+      <option name="MAIN_CLASS_NAME" value="day_03.c48_filedownload" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c49_fileupload.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenyumdersleri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day_03" />
+      <option name="MAIN_CLASS_NAME" value="day_03.c49_fileupload" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c52_writeexxel.writeexxel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenyumdersleri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day_03" />
+      <option name="MAIN_CLASS_NAME" value="day_03.c52_writeexxel" />
+      <option name="METHOD_NAME" value="writeexxel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.c52_writeexxel.writeexxel" />
+        <item itemvalue="JUnit.C50_ApachePoiReadExcel.readExel" />
+        <item itemvalue="JUnit.c49_fileupload.test1" />
+        <item itemvalue="JUnit.c48_filedownload.test1" />
+        <item itemvalue="JUnit.c48_filedownload.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="228b54da-5000-4993-80c1-9eb648206e3b" name="Changes" comment="" />
+      <created>1697047072113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697047072113</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/day_03/c07_locators.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/day_03/c26_alert1.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/day_03/c08_xpath.java</url>
+          <line>20</line>
+          <properties class="day_03.c08_xpath" method="xpath">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
